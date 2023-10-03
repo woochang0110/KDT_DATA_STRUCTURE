@@ -1,0 +1,5 @@
+﻿  hotel__module.c
+C:\Users\wooch\source\repos\Hotel\Hotel\hotel__module.c(7,30): warning C4081: ')'이(가) 있어야 하는데 'newline'이(가) 있습니다.
+C:\Users\wooch\source\repos\Hotel\Hotel\hotel__module.c(476,7): warning C4101: 'input_buffer' :참조되지 않은 지역 변수입니다.
+C:\Users\wooch\source\repos\Hotel\Hotel\hotel__module.c(370): warning C4716: 'reservation_management': 값을 반환해야 합니다.
+  Hotel.vcxproj -> C:\Users\wooch\source\repos\Hotel\x64\Debug\Hotel.exe
